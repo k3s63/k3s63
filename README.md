@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Kevin (also known as K3S63), a young developer and cybersecurity enthusiast. I work on various projects in Python, web development, and ethical hacking. My goal is to explore the world of technology and share useful tools and scripts.<br><br>🔧 Skills:<br>Languages: Python, HTML, CSS, JavaScript<br>Focus: Cybersecurity, Ethical Hacking, Web Development<br>Feel free to explore my repositories!
+I’m Kevin (also known as K3S63), a young developer and cybersecurity enthusiast. I work on various projects in Python, telegram & discord bot development. My goal is to explore the world of technology and share useful tools and scripts.<br><br>🔧 Skills:<br>Languages: Python, HTML, CSS, JavaScript<br>Focus: Cybersecurity and Bot development<br>Feel free to explore my repositories!
 
 
 # 💻 Tech Stack:
